@@ -7,6 +7,7 @@ function MainContent(){
        <TodoItem />
        <TodoItem />
        <TodoItem />
+       <TodoItem />
     </div>
     )
 }
